@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  WeatherApp
 //
-//  Created by Данил Аникин on 11.08.2024.
+//  Created by anikin02 on 11.08.2024.
 //
 
 import UIKit
